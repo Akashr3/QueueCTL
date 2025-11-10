@@ -19,7 +19,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/queuectl.git
+   https://github.com/Akashr3/QueueCTL.git
    cd queuectl
    ```
 
